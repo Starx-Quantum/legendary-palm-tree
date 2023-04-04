@@ -21,6 +21,9 @@
 </span>
 
 <br />
+<div id="views">
+ <a href = "https://github.com/Starx-Quantum">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="views"/>
 <br />
 
 <!-- ## 🏆 **GITHUB TROPHY**
@@ -35,9 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingstella&show_icons=true&locale=en" alt="codingstella" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstella&" alt="codingstella" /></p>
-
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingstella" alt="codingstella" /></a> </p>
 
 
 ## 🌏 **CONNECT WITH ME**
